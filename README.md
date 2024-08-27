@@ -7,9 +7,9 @@ Table of Contents
 - Introduction
 - Dataset
 - Questions
-  Basic Level
-  Intermediate Level
-  Advanced Level
+- Basic Level
+- Intermediate Level
+- Advanced Level
 - Contributing
   
 Introduction
