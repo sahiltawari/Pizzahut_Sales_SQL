@@ -20,22 +20,22 @@ The dataset used in this project includes tables related to sales transactions, 
 
 Questions
 Basic Level
-Retrieve the total number of orders placed.
-Calculate the total revenue generated from pizza sales.
-Identify the highest-priced pizza.
-Identify the most common pizza size ordered.
-List the top 5 most ordered pizza types along with their quantities.
+-Retrieve the total number of orders placed.
+-Calculate the total revenue generated from pizza sales.
+-Identify the highest-priced pizza.
+-Identify the most common pizza size ordered.
+-List the top 5 most ordered pizza types along with their quantities.
 
 Intermediate Level
-Join the necessary tables to find the total quantity of each pizza category ordered.
-Determine the distribution of orders by hour of the day.
-Join relevant tables to find the category-wise distribution of pizzas.
-Group the orders by date and calculate the average number of pizzas ordered per day.
-Determine the top 3 most ordered pizza types based on revenue.
+-Join the necessary tables to find the total quantity of each pizza category ordered.
+-Determine the distribution of orders by hour of the day.
+-Join relevant tables to find the category-wise distribution of pizzas.
+-Group the orders by date and calculate the average number of pizzas ordered per day.
+-Determine the top 3 most ordered pizza types based on revenue.
 
 Advanced Level
-Calculate the percentage contribution of each pizza type to total revenue.
-Analyze the cumulative revenue generated over time.
+-Calculate the percentage contribution of each pizza type to total revenue.
+-Analyze the cumulative revenue generated over time.
 
 Contributing
 Contributions are welcome! If you have suggestions for improvements or additional questions that can be included, feel free to open an issue or submit a pull request.
